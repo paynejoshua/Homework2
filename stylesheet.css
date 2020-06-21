@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    Position: relative;
+    
+}
+
+body {
+    background-color: lightgray;
+}
+.navbar-nav {
+
+
+    margin-left: 850px;
+    
+}
+.name {
+    position: absolute;
+    background: teal;
+    color: white;
+    padding: 16px;
+    margin-top: 0px;
+    margin-left: 20px;
+
+}
+
+section {
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-right: 25%;
+    background-color: seagreen;
+    color: white;
+    
+}
+
+.Aboutme {
+    color: white;
+    size: 100px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+
+.media {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+hr {
+    position: relative;  
+    border: none; 
+    height: 2px; 
+    background: darkgrey; 
+    margin-right: 25px;
+    margin-left: 13px;
+    opacity: 25%;
+}
+
+
+
+
+
