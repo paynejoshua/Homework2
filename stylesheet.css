@@ -29,13 +29,14 @@ body {
 section {
     box-sizing: border-box;
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 200px;
     margin-right: 25%;
     background-color: teal;
     color: white;
     text-align: center;
     
 }
+
 
 .Aboutme {
     color: white;
@@ -44,7 +45,13 @@ section {
     margin-top: 10px;
     margin-left: 20px;
     margin-bottom: 20px;
+    text-align: left;
 
+}
+
+.media-body {
+    margin-bottom: 100px;
+    text-align: left;
 }
 
 .media {
