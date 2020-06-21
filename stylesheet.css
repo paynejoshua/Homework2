@@ -29,6 +29,7 @@ body {
 .indexsection {
     margin-left: 0;
 }
+
 section {
     box-sizing: border-box;
     margin-top: 10px;
@@ -88,6 +89,30 @@ hr {
     margin-bottom: 5px;
 }
 
+.contact {
+    margin-top: 5%;
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight: bold;
+}
 
+.contacthr {
+    margin-right: 13%;
+}
 
+.btn {
+    background-color: whitesmoke;
+    color: black;
+    border-color: teal;
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
 
+.form-control {
+    width: 85%;
+    margin-left: 2%;
+}
+
+label {
+    margin-left: 2%;
+}
