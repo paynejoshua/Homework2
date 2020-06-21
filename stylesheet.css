@@ -31,8 +31,9 @@ section {
     margin-top: 10px;
     margin-bottom: 50px;
     margin-right: 25%;
-    background-color: seagreen;
+    background-color: teal;
     color: white;
+    text-align: center;
     
 }
 
@@ -59,6 +60,21 @@ hr {
     margin-right: 25px;
     margin-left: 13px;
     opacity: 25%;
+}
+
+.card {
+    margin: inherit;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.portfolio {
+    text-align: left;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 40px;
+    margin-bottom: 5px;
 }
 
 
