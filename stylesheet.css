@@ -13,7 +13,17 @@ body {
     background-color: lightgray;
 }
 
+.justify-content-around {
+    background-color: whitesmoke;
+}
 
+.name {
+    background-color: teal;
+    color: whitesmoke;
+    max-width: 9%;
+    margin-left: -2.2%;
+    margin-right: 2%;
+}
 
 a {
     margin-right: 10%;
