@@ -4,8 +4,7 @@
     font-size: 100%;
     margin: 0;
     padding: 0;
-    Position: relative;
-    
+    position: relative;
 }
 
 /* @media screen and (min-width: 1440px) {
@@ -34,31 +33,19 @@
     }
 }  */
 
+#header-wrapper { background: whitesmoke }
 
 h1 {
     background-color: teal;
+    margin-bottom: 0;
     padding: 13px;
     color: whitesmoke;
     font-size: 12px;
-    max-width: 7vw;
-    margin-left: 11.5vw;
-    float: left;
-    display: flex;
-    flex-wrap: wrap;
-    
-
 }
-    
 
 body {
     background-color: lightgray;
 }
-
-.justify-content-around {
-    background-color: whitesmoke;
-    float: right;
-}
-
 
 a {
     margin-right: 10%;
@@ -66,10 +53,8 @@ a {
 }
 
 .nav {
-    
     background-color: whitesmoke;
-
-} 
+}
 
 
 
@@ -78,16 +63,10 @@ a {
 }
 
 section {
-    box-sizing: border-box;
-    margin-top: 10px;
-    margin-right: 25%;
-    margin-bottom: 200px;
     background-color: teal;
     color: white;
     text-align: left;
-    
 }
-
 
 .Aboutme {
     color: white;
@@ -97,7 +76,6 @@ section {
     margin-left: 20px;
     margin-bottom: 20px;
     text-align: left;
-
 }
 
 .media-body {
