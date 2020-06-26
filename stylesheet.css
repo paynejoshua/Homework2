@@ -8,6 +8,47 @@
     
 }
 
+/* @media screen and (min-width: 1440px) {
+
+    h1{
+        background-color: teal;
+    padding: 13px;
+    color: whitesmoke;
+    font-size: 12px;
+    max-width: 7vw;
+    margin-left: 11.5vw;
+    float: left;
+    
+    }
+}
+
+@media screen and (min-width: 768px) {
+    h1 {
+    background-color: teal;
+    padding: 13px;
+    color: whitesmoke;
+    font-size: 12px;
+    max-width: 7vw;
+    margin-left: 11.5vw;
+    float: left;
+    }
+}  */
+
+
+h1 {
+    background-color: teal;
+    padding: 13px;
+    color: whitesmoke;
+    font-size: 12px;
+    max-width: 7vw;
+    margin-left: 11.5vw;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+    
 
 body {
     background-color: lightgray;
@@ -15,15 +56,9 @@ body {
 
 .justify-content-around {
     background-color: whitesmoke;
+    float: right;
 }
 
-.name {
-    background-color: teal;
-    color: whitesmoke;
-    max-width: 9%;
-    margin-left: -2.2%;
-    margin-right: 2%;
-}
 
 a {
     margin-right: 10%;
