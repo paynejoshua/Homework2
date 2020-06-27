@@ -10,6 +10,6 @@ while it works I am unsure as to how it works. This is difficult for me as I wan
 I followed the basic layout of the examples given for color and decoration of the webpage. It wasn't until much later that I realized we could style this however we wanted. This may be something I change in the future but for now I was more focused on getting the overall website to be responsive. 
 
 Sources:
-Getbootsrap.come
+Getbootsrap.com
 Freecodecamp.org
 BJ Payne
