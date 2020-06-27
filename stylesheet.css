@@ -8,55 +8,25 @@
     
 }
 
-/* @media screen and (min-width: 1440px) {
 
-    h1{
-        background-color: teal;
-    padding: 13px;
-    color: whitesmoke;
-    font-size: 12px;
-    max-width: 7vw;
-    margin-left: 11.5vw;
-    float: left;
-    
-    }
+#header-wrapper { 
+    background-color: whitesmoke;
 }
 
-@media screen and (min-width: 768px) {
-    h1 {
-    background-color: teal;
-    padding: 13px;
-    color: whitesmoke;
-    font-size: 12px;
-    max-width: 7vw;
-    margin-left: 11.5vw;
-    float: left;
-    }
-}  */
 
 
 h1 {
     background-color: teal;
+    margin-bottom: 0;
     padding: 13px;
     color: whitesmoke;
     font-size: 12px;
-    max-width: 7vw;
-    margin-left: 11.5vw;
-    float: left;
-    display: flex;
-    flex-wrap: wrap;
-    
 
 }
     
 
 body {
     background-color: lightgray;
-}
-
-.justify-content-around {
-    background-color: whitesmoke;
-    float: right;
 }
 
 
@@ -72,24 +42,22 @@ a {
 } 
 
 
-
 .indexsection {
     margin-left: 0;
 }
 
 section {
-    box-sizing: border-box;
-    margin-top: 10px;
-    margin-right: 25%;
-    margin-bottom: 200px;
+
     background-color: teal;
     color: white;
     text-align: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
     
 }
 
 
-.Aboutme {
+.section-header {
     color: white;
     size: 100px;
     font-weight: bolder;
@@ -106,8 +74,9 @@ section {
 }
 
 .media {
-    margin-left: 25px;
-    margin-right: 25px;
+    margin: 0px 25px 25px 25px;
+
+   
 }
 
 hr {
@@ -120,22 +89,7 @@ hr {
     opacity: 25%;
 }
 
-.card {
-    margin: inherit;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    width: 100%;
-    height: 100%;
-}
 
-.card-body {
-    color: white;
-    background-color: teal;
-    size: 10px;
-    width: 100%;
-    
-
-}
 
 .portfolio {
     text-align: left;
